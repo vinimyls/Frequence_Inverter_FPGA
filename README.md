@@ -4,7 +4,7 @@ this project was created in 2017 using VHDL, Altera developer kit
 
 
 
-###this project was developed in collaboration with:
+### this project was developed in collaboration with:
 
 Felipe Bonifácio
 
